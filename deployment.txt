@@ -1,2 +1,2 @@
-Frontend URL: [REPLACE_WITH_YOUR_VERCEL_URL]
-Backend API URL: [REPLACE_WITH_YOUR_RENDER_URL]/api
+Frontend URL: https://frontend-five-liart-68.vercel.app
+Backend API URL: https://felicity-backend-f12s.onrender.com/api
